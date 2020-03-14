@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "jquery": "1.11.3",
+    "jquery": "3.4.0",
     "swiper": "^5.3.6"
   }
 }
