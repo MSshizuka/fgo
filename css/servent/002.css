@@ -1,0 +1,53 @@
+@media (max-width: 1220px) and (min-width: 1000px) {
+  #main_body {
+      width: 80%!important;
+  }
+}
+
+#aside_right {
+  display: none;
+}
+
+.body {
+  width: 80%;
+  float: right;
+}
+
+.middle_container {
+  position: relative;
+  text-align: center;
+}
+
+.unique-video {
+  position: absolute;
+  left: 50%;
+  top: 7rem;
+  transform: translateX(-50%);
+  width: 98%;
+  min-width: 320px;
+  z-index: 1;
+}
+
+.middle_container .title {
+  position: absolute;
+  left: 1%;
+  top: 1rem;
+  font-size: 1.125rem;
+  color: #444;
+}
+
+.middle_container .uniue-name {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 4.4rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #f00;
+}
+
+.middle_container .uniue-name span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

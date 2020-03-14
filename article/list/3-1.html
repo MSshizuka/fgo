@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF8">
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0'>
+  <title>FGO攻略小站~</title>
+  <link rel="stylesheet" href="/fgo/css/reset.min.css">
+  <link rel="stylesheet" href="/fgo/font/iconfont.css">
+  <link rel="stylesheet" href="/fgo/css/common.css">
+  <link rel="stylesheet" href="/fgo/css/article.css">
+  <link rel="stylesheet" href="/fgo/css/columnTwo.css">
+</head>
+
+<body>
+  <div class="mark" id="mark"></div>
+
+  <div class="aside_menu" id="aside_menu">
+    <div class="menu_container">
+      <ul>
+      </ul>
+    </div>
+  </div>
+
+  <header id="header" class="header">
+    <div class="main">
+      <div class="left">
+        <i class="iconfont icon-caidan"></i>
+        <a href="../../index.html">FGO手册</a>
+      </div>
+      <div class="right">
+        <div class="login"><a>登录</a></div>
+        <div class="register"><a>注册</a></div>
+      </div>
+    </div>
+  </header>
+
+  <main id="main_container" class="main">
+
+    <nav id="nav" class="nav main">
+      <div id="nav_container">
+        <div class="nav_img"></div>
+        <ul class="nav_list"></ul>
+      </div>
+    </nav>
+
+    <section id="section" class="section main">
+      <aside id="aside_left" class="aside_left"></aside>
+
+      <main id="main_body" class="body main">
+        <div class="middle_container" id="middle_container">
+          <div></div>
+          <form class="form-servent">
+            <div class="form-container">
+              <i class="iconfont icon-sousuo5"></i>
+              <input type="text" class="search-servent" id="search-servent" name="search-servent"
+                placeholder="英灵名称/昵称/编号">
+            </div>
+            <button class="search-btn" onclick="return false">搜索</button>
+            <div class="order-servent">
+              <a href="javascript:;" class="order-left order-active">正序</a>
+              <a href="javascript:;" class="order-right">倒序</a>
+            </div>
+          </form>
+          <div></div>
+          <div class="servent-list-container">
+            <div class="list-container">
+              <div class="list-first-line">
+                <div class="list-servent-id"><span class="servent-id">编号</span></div>
+                <div class="list-servent-head"><span class="servent-head">头像</span></div>
+                <div class="list-servent-name"><span class="servent-name">名称</span></div>
+                <div class="list-servent-job"><span class="servent-job">职阶</span></div>
+                <div class="list-servent-stars"><span class="servent-stars">星级</span></div>
+                <div class="list-servent-unique"><span class="servent-unique">宝具</span></div>
+              </div> 
+              <ul>
+                
+              </ul>
+              <button type="button"  class="add-more">加载更多</button>
+            </div> 
+            
+            <div class="list-container-mobile">
+              <div>
+                <ul>
+                
+                </ul>
+                <button type="button"  class="mobile-add-more">加载更多</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <aside id="aside_right" class="aside_right">
+        
+      </aside>
+
+    </section>
+  </main>
+
+
+  <script src="/fgo/js/swiper.min.js"></script>
+  <script src="/fgo/js/axios.min.js"></script>
+  <script src="/fgo/js/common.js"></script>
+  <script src="/fgo/js/router.js"></script>
+  <script src="/fgo/js/3-1.js"></script>
+</body>
+
+</html>

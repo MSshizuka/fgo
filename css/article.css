@@ -1,0 +1,83 @@
+#main_body #middle_container {
+  padding: 12px;
+}
+
+#middle_container .nationalRaider-title {
+  margin: 0 0 15px 0;
+  font: 400 14px/20px;
+}
+
+#middle_container .nationalRaider-title li {
+  display: inline-block;
+}
+
+#middle_container .nationalRaider-title li a {
+  font-size: 1rem;
+  color: #07d;
+}
+
+#middle_container .nationalRaider-title li:last-child:before {
+  content: " / ";
+  display: inline-block;
+  margin: 0 8px;
+  color: #07d;
+  font-size: 1rem;
+}
+
+#middle_container hr {
+  box-sizing: content-box;
+  height: 0;
+  margin: 15px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+#middle_container .article-container h2 {
+  width: 100%;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 400;
+}
+
+#middle_container .article-container a {
+  color: #444;
+}
+
+#middle_container .article-container .author {
+  font-size: 12px;
+  line-height: 18px;
+  color: #999;
+  margin: 5px 0;
+}
+
+#middle_container .article-container .img {
+  max-height: 16.875rem;
+  overflow: hidden;
+  margin-top: 5px;
+}
+
+#middle_container .article-container .img img {
+  width: 100%;
+  max-width: 100%;
+  min-width: 300px;
+  height: auto;
+  box-sizing: border-box;
+  border: 0;
+  vertical-align: middle;
+}
+
+#middle_container .article-container .writed {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin: 15px 0;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444;
+}
+
+

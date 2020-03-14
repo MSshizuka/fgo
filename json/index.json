@@ -1,0 +1,573 @@
+[
+  {
+    "id": "nav",
+    "data": [
+      {
+        "id": 0,
+        "bigImg": "https://fgo.wiki/images/3/35/%E6%83%85%E4%BA%BA%E8%8A%822020.png"
+      },
+      {
+        "id": 1,
+        "title": "首页",
+        "link": "/fgo"
+      },
+      {
+        "id": 2,
+        "title": "新手指南",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 3,
+        "title": "游戏机制",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 4,
+        "title": "官方漫画",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 5,
+        "title": "相关周边",
+        "link": "/fgo/article/list/404.html"
+      }
+    ]
+  },
+  {
+    "id": "aside_left",
+    "data": [
+      {
+        "id": "0",
+        "primaryTitle": "游戏动态",
+        "data": [
+          {
+            "id": 0,
+            "secondaryTitle": "日服公告",
+            "link": "/fgo/article/list/1-1.html"
+          },
+          {
+            "id": 1,
+            "secondaryTitle": "国服公告",
+            "link": "/fgo/article/list/1-2.html"
+          },
+          {
+            "id": 2,
+            "secondaryTitle": "站内通知",
+            "link": "/fgo/article/list/1-3.html"
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "primaryTitle": "游戏攻略",
+        "data": [
+          {
+            "id": 0,
+            "secondaryTitle": "日服攻略",
+            "link": "/fgo/article/list/2-1.html"
+          },
+          {
+            "id": 1,
+            "secondaryTitle": "国服攻略",
+            "link": "/fgo/article/list/2-2.html"
+          },
+          {
+            "id": 2,
+            "secondaryTitle": "投稿杂谈",
+            "link": "/fgo/article/list/2-3.html"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "primaryTitle": "图鉴大全",
+        "data": [
+          {
+            "id": 0,
+            "secondaryTitle": "英灵图鉴",
+            "link": "/fgo/article/list/3-1.html"
+          },
+          {
+            "id": 1,
+            "secondaryTitle": "礼装图鉴",
+            "link": "/fgo/article/list/404.html"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "primaryTitle": "副本关卡",
+        "data": [
+          {
+            "id": 0,
+            "secondaryTitle": "主线副本",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": 2,
+            "secondaryTitle": "幕间物语",
+            "link": "/fgo/article/list/404.html"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "primaryTitle": "杂项数据",
+        "data": [
+          {
+            "id": 0,
+            "secondaryTitle": "声优一览",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": 1,
+            "secondaryTitle": "画师一览",
+            "link": "/fgo/article/list/404.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aside_middle",
+    "data": [
+      {
+        "id": 0,
+        "data": [
+          {
+            "id": 1,
+            "desc": "白情活动",
+            "img": "http://fgo-cdn.vgtime.com/uploads/banners/20200305/202003051924125371.png",
+            "link": "javascript:;"
+          },
+          {
+            "id": 2,
+            "desc": "",
+            "img": "http://fgo-cdn.vgtime.com/uploads/banners/20200305/202003051924294138.png",
+            "link": "javascript:;"
+          },
+          {
+            "id": 3,
+            "desc": "",
+            "img": "http://fgo-cdn.vgtime.com/uploads/banners/20200305/202003051924441138.png",
+            "link": "javascript:;"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "data": [
+          {
+            "id": 0,
+            "th": "日服御主任务"
+          },
+          {
+            "id": 1,
+            "firstTd": "奖励",
+            "secondTd": "任务内容"
+          },
+          {
+            "id": 2,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "完成本周所有的御主任务"
+          },
+          {
+            "id": 3,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "任意打倒15名『剑』『术』『狂』阶敌人（从者及一部分Boss除外）"
+          },
+          {
+            "id": 4,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "任意打倒15名『弓』『骑』阶敌人（从者及一部分Boss除外"
+          },
+          {
+            "id": 5,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "任意打倒15名『枪』『杀』阶敌人（从者及一部分Boss除外）"
+          },
+          {
+            "id": 6,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "战利品「辉石」「魔石」「秘石」「银棋」「金像」任意获得2个"
+          },
+          {
+            "id": 7,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "战利品「辉石」「魔石」「秘石」「银棋」「金像」任意获得4个"
+          },
+          {
+            "id": 8,
+            "firstTd": "圣晶片 x 3",
+            "secondTd": "任意完成10次关卡"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "data": [
+          {
+            "id": 0,
+            "firstTh": "曜日",
+            "secondTh": "副本名",
+            "thirdTh": "掉落内容"
+          },
+          {
+            "id": 1,
+            "firstTd": "星期一",
+            "secondTd": "弓之修炼场",
+            "thirdTd": "Archer进阶、技能升级道具",
+            "fourthTd": "收集火种（枪杀篇）",
+            "fifthTd": "枪、杀、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 2,
+            "firstTd": "星期二",
+            "secondTd": "枪之修炼场",
+            "thirdTd": "Lance进阶、技能升级道具",
+            "fourthTd": "收集火种（剑骑篇）",
+            "fifthTd": "剑、骑、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 3,
+            "firstTd": "星期三",
+            "secondTd": "狂之修炼场",
+            "thirdTd": "Berserker进阶、技能升级道具",
+            "fourthTd": "收集火种（弓术篇）",
+            "fifthTd": "弓、术、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 4,
+            "firstTd": "星期四",
+            "secondTd": "骑之修炼场",
+            "thirdTd": "Rider进阶、技能升级道具",
+            "fourthTd": "收集火种（枪杀篇）",
+            "fifthTd": "枪、杀、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 5,
+            "firstTd": "星期五",
+            "secondTd": "术之修炼场",
+            "thirdTd": "Caster进阶、技能升级道具",
+            "fourthTd": "收集火种（剑骑篇）",
+            "fifthTd": "剑、骑、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 6,
+            "firstTd": "星期六",
+            "secondTd": "杀之修炼场",
+            "thirdTd": "Assassin进阶、技能升级道具",
+            "fourthTd": "收集火种（弓术篇）",
+            "fifthTd": "弓、术、狂经验卡",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          },
+          {
+            "id": 7,
+            "firstTd": "星期日",
+            "secondTd": "剑之修炼场",
+            "thirdTd": "Saber进阶、技能升级道具",
+            "fourthTd": "收集火种",
+            "fifthTd": "全职阶经验卡（随机）",
+            "sixthTd": "打开宝库的大门",
+            "seventhTd": "大量QP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aside_right",
+    "data": [
+      {
+        "id": 0,
+        "data": [
+          {
+            "id": 0,
+            "version": "国服客户端v1.45.3",
+            "apple": "苹果版",
+            "appleLink": "https://itunes.apple.com/cn/app/ming-yun-guan-wei-zhi-ding/id1108397779?mt=8",
+            "android": "安卓版",
+            "androidLink": "https://pkg.biligame.com/games/fgo-1.55.5_1_sign_1_259503.apk"
+          },
+          {
+            "id": 1,
+            "version": "移动端v1.3.0",
+            "apple": "苹果版",
+            "appleLink": "/fgo/article/list/404.html",
+            "android": "安卓版",
+            "androidLink": "/fgo/article/list/404.html"
+          },
+          {
+            "id": 2,
+            "version": "FGO素材规划",
+            "apple": "苹果版",
+            "appleLink": "/fgo/article/list/404.html",
+            "android": "安卓版",
+            "androidLink": "/fgo/article/list/404.html"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "新增英灵",
+        "data": [
+          {
+            "id": "277",
+            "name": "奥德修斯",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/277.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "276",
+            "name": "清少纳言",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/276.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "275",
+            "name": "杨贵妃",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/275.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "274",
+            "name": "欧罗巴",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/274.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "273",
+            "name": "曼德里卡多",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/273.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "272",
+            "name": "超人俄里翁",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/272.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "271",
+            "name": "南丁格尔[Archer]",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/271.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "270",
+            "name": "阿斯托尔福[Saber]",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/270.jpg",
+            "link": "javascript:;"
+          },
+          {
+            "id": "269",
+            "name": "灾星简",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/servant/head/269.jpg",
+            "link": "javascript:;"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "新增礼装",
+        "data": [
+          {
+            "id": "1205",
+            "name": "冒险的象征",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1205.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1204",
+            "name": "压哨球",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1204.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1203",
+            "name": "Daddy 来信环节",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1203.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1202",
+            "name": "神之牌",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1202.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1201",
+            "name": "乱世至上",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1201.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1200",
+            "name": "本大爷学生会",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1200.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1199",
+            "name": "侦探埃德蒙~新章突入篇~",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1199.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1198",
+            "name": "奢华服装店",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1198.jpg",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "1197",
+            "name": "碧蓝之梦",
+            "img": "http://fgo-cdn.vgtime.com/media/fgo/equip/head/1197.jpg",
+            "link": "/fgo/article/list/404.html"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "热门标签",
+        "data": [
+          {
+            "id": "0",
+            "title": "日服活动",
+            "link": "/fgo/article/list/2-1.html"
+          },
+          {
+            "id": "1",
+            "title": "2019",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "2",
+            "title": "国服活动",
+            "link": "/fgo/article/list/2-2.html"
+          },
+          {
+            "id": "3",
+            "title": "活动复刻",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "5",
+            "title": "fate",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "6",
+            "title": "日系",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "7",
+            "title": "英灵列传",
+            "link": "/fgo/article/list/2-3.html"
+          },
+          {
+            "id": "8",
+            "title": "同人小说",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "9",
+            "title": "魔幻",
+            "link": "/fgo/article/list/404.html"
+          },
+          {
+            "id": "10",
+            "title": "百重塔",
+            "link": "javascript:;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aside_menu",
+    "data": [
+      {
+        "id": 0,
+        "title": "首页",
+        "icon": "iconfont icon-shouye",
+        "link": "/fgo/index.html"
+      },
+      {
+        "id": 1,
+        "title": "日服公告",
+        "link": "/fgo/article/list/1-1.html"
+      },
+      {
+        "id": 2,
+        "title": "国服公告",
+        "link": "/fgo/article/list/1-2.html"
+      },
+      {
+        "id": 3,
+        "title": "站内通知",
+        "link": "/fgo/article/list/1-3.html"
+      },
+      {
+        "id": 4,
+        "title": "日服攻略",
+        "link": "/fgo/article/list/2-1.html"
+      },
+      {
+        "id": 5,
+        "title": "国服攻略",
+        "link": "/fgo/article/list/2-2.html"
+      },
+      {
+        "id": 6,
+        "title": "投稿杂谈",
+        "link": "/fgo/article/list/2-3.html"
+      },
+      {
+        "id": 7,
+        "title": "英灵图鉴",
+        "link": "/fgo/article/list/3-1.html"
+      },
+      {
+        "id": 8,
+        "title": "主线副本",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 9,
+        "title": "幕间物语",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 10,
+        "title": "强化副本",
+        "link": "/fgo/article/list/404.html"
+      },
+      {
+        "id": 11,
+        "title": "注册",
+        "icon": "iconfont icon-zhuce",
+        "link": "javascript:;"
+      },
+      {
+        "id": 12,
+        "title": "登录",
+        "icon": "iconfont icon-denglu-copy",
+        "link": "javascript:;"
+      }
+
+    ]
+  }
+]
