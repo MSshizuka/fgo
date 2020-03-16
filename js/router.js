@@ -84,8 +84,8 @@
               let { id, name, img, job, stars, unique } = result.data[i];
               str += `<li>
             <div class="servent-id"><div>${id}</div></div>
-            <div class="servent-head"><div><a href="/fgo/servent/list/servent.html?servent=${i}"><img src="${img}" alt="${name}"></a></div></div>
-            <div class="servent-name"><div><a href="/fgo/servent/list/servent.html?servent=${i}">${name}</a></div></div>
+            <div class="servent-head"><div><a href="/fgo/servent/list/servent.html?servent=${id}"><img src="${img}" alt="${name}"></a></div></div>
+            <div class="servent-name"><div><a href="/fgo/servent/list/servent.html?servent=${id}">${name}</a></div></div>
             <div class="servent-job"><div><img src="${job}" alt=""></div></div>
             <div class="servent-stars"><div><i class="iconfont icon-xingxing"></i>${stars}</div></div>
             <div class="servent-unique"><div><img src="${unique}" alt=""></div></div>
@@ -97,8 +97,8 @@
               let { id, name, img, job, stars, unique } = result.data[i];
               str += `<li>
               <div class="servent-id"><div>${id}</div></div>
-              <div class="servent-head"><div><a href="/fgo/servent/list/servent.html?servent=${i}"><img src="${img}" alt="${name}"></a></div></div>
-              <div class="servent-name"><div><a href="/fgo/servent/list/servent.html?servent=${i}">${name}</a></div></div>
+              <div class="servent-head"><div><a href="/fgo/servent/list/servent.html?servent=${id}"><img src="${img}" alt="${name}"></a></div></div>
+              <div class="servent-name"><div><a href="/fgo/servent/list/servent.html?servent=${id}">${name}</a></div></div>
               <div class="servent-job"><div><img src="${job}" alt=""></div></div>
               <div class="servent-stars"><div><i class="iconfont icon-xingxing"></i>${stars}</div></div>
               <div class="servent-unique"><div><img src="${unique}" alt=""></div></div>

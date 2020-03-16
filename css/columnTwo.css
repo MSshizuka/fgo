@@ -23,7 +23,6 @@
   .servent-list-container {
     margin: 0!important;
   }
-
 }
 
 @media (max-width:1220px) and (min-width:1000px) {
@@ -215,7 +214,7 @@
 
 .list-container ul li {
   overflow: hidden;
-  max-height: 140px;
+  max-height: 8.75rem;
   line-height: 7.1875rem;
   border-bottom: 1px solid #d7d7d7;
 }
