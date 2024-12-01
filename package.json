@@ -12,6 +12,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "jquery": "1.11.3",
-    "swiper": "^5.3.6"
+    "swiper": "^6.5.1"
   }
 }
